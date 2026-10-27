@@ -1,0 +1,6 @@
+[info] [+] hooked SSL_CTX_set_custom_verify @ 0x794a38ddac
+[info] [+] hooked SSL_set_custom_verify @ 0x794a38ddb8
+[info] [+] hooked SSL_get_verify_result @ 0x794a394834
+[info] [*] libttboringssl.so unpin installed
+[*] unpin attached to pid 17908 — 保持 600s。抖音现在接受任意证书(含 Yakit)。
+[*] done

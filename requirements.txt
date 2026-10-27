@@ -1,0 +1,5 @@
+frida-tools
+hyperframe
+hpack
+brotli
+zstandard
